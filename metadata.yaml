@@ -1,0 +1,27 @@
+_repo: The-Brochure-Series-of-Architectural-Illustration-Volume-01-No.-03-March-1895--13-The-Cloiste__18852
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_bookshelf: The Brochure Series of Architectural Illustration
+gutenberg_issued: '2006-07-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18852'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'NA'
+- !lcsh 'Architecture -- Periodicals'
+title: "The Brochure Series of Architectural Illustration, Vol. 01, No. 03, March\
+  \ 1895\r\nThe Cloister at Monreale, Near Palermo, Sicily"
+url: http://www.gutenberg.org/ebooks/18852
